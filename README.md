@@ -1,9 +1,6 @@
 # ServoBench_GUI_modules
 
-[tag:Pyside] [tag:QtDesigner, UDP, json]
-
-[tag:javascript]
-
+<font color="blue">Pyside, QtDesigner, UDP, json</font>
 
 The repository contains the GUI modules for the motion simulation bench software.
 
