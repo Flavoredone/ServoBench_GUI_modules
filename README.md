@@ -2,6 +2,9 @@
 
 [tag:Pyside] [tag:QtDesigner, UDP, json]
 
+[tag:javascript]
+
+
 The repository contains the GUI modules for the motion simulation bench software.
 
 The GUI is designed in Qt Designer, with the PySide 6 framework. The simulator is connected to the PC from the controller via a patch cord, data packets transfer from the PC to the controller is implemented on the UDP protocol. Stationary and software operation modes are implemented in the software. To store modes, settings, etc. are used json files. The software saves logs in csv, builds graphs in real time
